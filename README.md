@@ -11,7 +11,7 @@
 TodoApp is project made with React Native. Personal goal was to teach myself React Native for future projects. This app offers simple way to add tasks by writing them. Tapping tasks deletes them.
 
 <h2> Images </h2>
-!(gitImages/ToDoApp1.PNG)
+![Alt text](gitImages/ToDoApp1.png)
 
 <br /><b>Contributors:</b>
 <ul>
